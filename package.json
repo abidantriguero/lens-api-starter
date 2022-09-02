@@ -11,9 +11,10 @@
   "dependencies": {
     "@headlessui/react": "^1.6.6",
     "@heroicons/react": "^1.0.6",
+    "@walletconnect/mobile-registry": "^1.4.0",
     "ethers": "^5.6.9",
     "graphql": "^16.5.0",
-    "next": "12.2.5",
+    "next": "^12.2.5",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "urql": "^2.2.3"
@@ -23,6 +24,7 @@
     "eslint": "8.22.0",
     "eslint-config-next": "12.2.5",
     "eslint-config-prettier": "^8.5.0",
+    "hardhat": "^2.10.2",
     "postcss": "^8.4.14",
     "prettier": "^2.7.1",
     "tailwindcss": "^3.1.8"
