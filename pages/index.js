@@ -4,6 +4,7 @@ import Image from "next/image";
 import { client, recommendedProfiles } from "../api";
 
 export default function Home() {
+
   useEffect(() => {
     fetchProfiles();
   }, []);
@@ -17,5 +18,7 @@ export default function Home() {
     }
   }
 
-  return <div></div>;
+  return (
+   <div></div>
+  );
 }
