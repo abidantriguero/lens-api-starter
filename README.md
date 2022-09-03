@@ -20,4 +20,6 @@ We work with the Lens API, a GraphQL API that allows us to quickly interact with
 
 ##### REPO:
 
-- Smart Contract: [lens-api-starer](https://github.com/abidantriguero/lens-api-starter) - Github
+- LensBook: [lens-api-starer](https://github.com/abidantriguero/lens-api-starter) - Github
+
+- Open [Dapp Social](https://lens-api-starter-abidan-triguero.vercel.app/) - with your browser to see and Following me.
